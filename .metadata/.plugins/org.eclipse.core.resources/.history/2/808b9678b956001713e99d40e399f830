@@ -1,0 +1,5 @@
+package com.katalyst.dao;
+
+public class LogDao {
+
+}

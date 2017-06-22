@@ -1,0 +1,8 @@
+package com.katalyst.model;
+
+public class Skulog {
+String purchaseorder_id;
+String date_search;
+String status;
+String response;
+}

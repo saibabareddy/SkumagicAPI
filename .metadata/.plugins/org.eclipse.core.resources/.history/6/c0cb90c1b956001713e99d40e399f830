@@ -1,0 +1,8 @@
+package com.katalyst.model;
+
+public class CreateNewUser {
+
+return "username" + "password";	
+	
+	
+}

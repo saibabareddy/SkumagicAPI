@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="css/log.css"></link>
+<script type="text/javascript" src="js/log.js"></script>
+</head>
+<body>
+	<div class="login-page">
+		<header>
+			<h1 class="header-top">Please Enter Your Credentials!</h1>
+		</header>
+		<div class="form">
+			<form method="post" class="login-form" action="/Skumagic">
+				<input type="text" placeholder="username" required="required" /> 
+				<input type="password" placeholder="password" required="required" />
+				<label>
+				<input name="remember" type="checkbox" value="Remember Me" /> Remember Me
+			  	</label>
+			    <button>login</button>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
